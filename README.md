@@ -10,7 +10,6 @@ The diagram does not have to be a sequence diagram. Any sensible way of presenti
 ### 0.5 Single page app diagram
 
 Create a diagram depicting the situation where the user goes to the single-page app version of the notes app <a rel="noreferrer" target="_blank" href="https://studies.cs.helsinki.fi/exampleapp/spa">here</a>.
-https://studies.cs.helsinki.fi/exampleapp/sp
 
 ### 0.6 New note in single page app diagram
 

@@ -16,4 +16,5 @@ Create a diagram depicting the situation where the user goes to the single-page 
 Create a diagram depicting the situation where the user creates a new note using the single-page version of the app.
 
 ## Part 1
+Some things
 ### Course Information, step 1
